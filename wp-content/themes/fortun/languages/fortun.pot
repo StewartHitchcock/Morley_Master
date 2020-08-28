@@ -1,0 +1,747 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fortune version 1.0\n"
+"POT-Creation-Date: 2017-03-04 13:58+0500\n"
+"PO-Revision-Date: 2017-03-18 20:18+0500\n"
+"Last-Translator: amir <amirkhan0617@gmail.com>\n"
+"Language-Team: Theme Kalia <amirmcs0617@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;_n;_x\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\test_work\\fortune\\wp-content"
+"\\themes\\fortune\n"
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/404.php:9
+msgid "404 Error Page"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/404.php:28
+msgid ""
+"The page you are looking for no longer exists. Perhaps you can return back "
+"to the sites homepage and see if you can find what you are looking for. Or, "
+"you can try finding it with the information below."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/404.php:32
+msgid "Back to Home"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/blog.php:9
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/modules/shortcodes/blog_grid.php:24
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/modules/shortcodes/our_blog.php:27
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/single.php:62
+msgid "by"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/blog.php:14
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/sidebar.php:35
+msgid "Read More"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/comments.php:39
+msgid "Comment navigation"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/comments.php:40
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/comments.php:41
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/comments.php:45
+msgid "Comments are closed."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/functions.php:34
+msgid "Main Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/functions.php:35
+msgid "Footer Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/functions.php:69
+msgid "Default Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/functions.php:71
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/functions.php:90
+msgid "Widgets in this area will be shown on the right-hand side."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/functions.php:78
+msgid "Footer Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/functions.php:80
+msgid "Widgets in this area will be shown in Footer Area."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/functions.php:88
+msgid "Blog Listing"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/functions.php:199
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/functions.php:200
+msgid "on"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/header.php:59
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/header.php:61
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/index.php:32
+msgid "Fortune"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/header.php:92
+#, php-format
+msgid "%d"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/header.php:98
+msgid "GET A Quote"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:25
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:73
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:321
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:418
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:605
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:836
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:935
+msgid "All Categories"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:49
+msgid "No Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:114
+msgid "Home"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:162
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:163
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:164
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:165
+msgid "Archive for "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:166
+msgid "Search Results for "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:167
+msgid "404 - Not Found"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:185
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:212
+msgid "You must agreed the policy"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:222
+msgid "Registration Successful - An email is sent"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:226
+msgid "Username or email already exists.  Password inherited."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:239
+msgid "commenter"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:251
+msgid "Reply"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:286
+msgid "Your Name"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:287
+msgid "Enter a Subject"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:288
+msgid "Enter Your Email Address"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:291
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:303
+msgid "Comments..."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:306
+msgid "Your email address will not be published."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:311
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:312
+msgid "Cancel reply"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:313
+msgid "submit now"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:339
+msgid "Add Your comments"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:600
+msgid "Poor"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:600
+msgid "Satisfactory"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:600
+msgid "Good"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:600
+msgid "Better"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:600
+msgid "Awesome"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:622
+#, php-format
+msgid "Average Rating %s"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:662
+msgid "Loading..."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/functions.php:711
+msgid "logo"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:10
+msgid "Fortune Recent Posts"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:10
+msgid "Show the recent posts."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:57
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:402
+msgid "latest news"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:63
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:311
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:408
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:925
+msgid "Title: "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:67
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:315
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:412
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:599
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:830
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:929
+msgid "No. of Posts:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:72
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:320
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:417
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:604
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:835
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:934
+msgid "Category"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:104
+msgid "Fortune Flickr Feed"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:104
+msgid "Fetch the latest feed from Flickr"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:160
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:514
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:759
+msgid "Title:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:165
+msgid "Flickr ID:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:169
+msgid "Number of Images:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:186
+msgid "Fortune About Us"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:186
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:452
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:638
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:715
+msgid "Show the information about company."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:203
+msgid "More About us"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:235
+msgid "Logo Link:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:236
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:244
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:531
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:692
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:700
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:768
+msgid "https://"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:239
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:763
+msgid "Content:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:243
+msgid "More Link:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:258
+msgid "Fortune Services Pages"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:258
+msgid "Show the Services Pages."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:305
+msgid "what we do"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:353
+msgid "Fortune Latest News"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:353
+msgid "Show the Latest News."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:452
+msgid "Fortune Contact Us"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:515
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:696
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:760
+msgid "Title"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:518
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/modules/shortcodes/contact_info_map.php:32
+msgid "Address:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:519
+msgid "Address"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:522
+msgid "Phone:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:523
+msgid "Phone"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:526
+msgid "Email:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:527
+msgid "Email"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:530
+msgid "BG Image:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:534
+msgid "Show Social Icons:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:553
+msgid "Fortune Services Posts"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:553
+msgid "Show the Services Posts."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:638
+msgid "Fortune Brochure"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:653
+msgid "Awesome Image"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:691
+msgid "Image Link:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:695
+msgid "File Title:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:699
+msgid "Brochure Link:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:715
+msgid "Fortune Business Enquiry"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:729
+msgid "send mail"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:767
+msgid "Link:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:782
+msgid "Fortune Support Agents"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:782
+msgid "Show the Support Agents."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:875
+msgid "Artica Gallery Widget"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:875
+msgid "Show the Gallery images"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/library/widgets.php:920
+msgid "Gallery Widget"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/loader.php:152
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/loader.php:153
+msgid "Theme Options"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/modules/shortcodes/contact_info_map.php:42
+msgid "Call Us:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/modules/shortcodes/contact_info_map.php:52
+msgid "Mail Us:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/modules/shortcodes/contact_info_map.php:62
+msgid "Opening Time:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/modules/shortcodes/our_projects.php:84
+msgid "View All"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/modules/shortcodes/subscribe.php:10
+msgid "Email Address"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/modules/shortcodes/subscribe.php:11
+msgid "subscribe us"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/modules/shortcodes/what_we_do.php:46
+msgid "read more"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:912
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2618
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1019
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2567
+msgid "unknown"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3594
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3594
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/plugins.php:63
+msgid "Theme Support (Required)"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/plugins.php:74
+msgid "Revolution Slider"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/plugins.php:85
+msgid "KingComposer"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/plugins.php:90
+msgid "Contact Form 7"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/thirdparty/tgm-plugin-activation/plugins.php:96
+msgid "Woocommerce"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/vc_map.php:6
+msgid "bbPress Forums"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/vc_map.php:9
+msgid "Jollyall"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/vc_map.php:16
+msgid "Forum"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/vc_map.php:177
+msgid "Container"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/includes/vc_map.php:180
+msgid "Choose whether you want to add a container before row or not."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/search.php:63
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/searchform.php:3
+msgid "Search...."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/searchform2.php:2
+msgid "Search for Keywords"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/searchform3.php:2
+msgid "Search..."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/sidebar.php:15
+msgid "by : "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/sidebar.php:17
+msgid "in : "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/sidebar.php:19
+msgid " 123 Likes "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/sidebar.php:21
+msgid " Print "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/single.php:67
+msgid "Pages: "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/single.php:76
+msgid "Share"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/woocommerce/cart/cart-totals.php:24
+msgid "Subtotal"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/woocommerce/cart/cart-totals.php:61
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/woocommerce/cart/cart.php:30
+msgid "Total"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/woocommerce/cart/cart.php:26
+msgid "Preview"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/woocommerce/cart/cart.php:27
+msgid "Product"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/woocommerce/cart/cart.php:71
+msgid "Available on backorder"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/woocommerce/cart/cart.php:110
+msgid "Remove this item"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/woocommerce/cart/cart.php:165
+msgid "Shipping"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/woocommerce/checkout/form-checkout.php:45
+msgid "Your order"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/woocommerce/checkout/payment.php:34
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/woocommerce/checkout/payment.php:34
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/woocommerce/checkout/payment.php:41
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/woocommerce/content-product.php:88
+msgid "Add To Cart"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\fortune\wp-content\themes\fortune/woocommerce/single-product/related.php:42
+msgid "Related Products"
+msgstr ""

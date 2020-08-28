@@ -1,0 +1,22 @@
+2020-08-10T11:20:00+00:00 CRITICAL Uncaught Error: Call to undefined function fortun_get_font_settings() in C:\xampp\htdocs\Projects\wp_MorleyHall-master\wp-content\themes\fortun\includes\helpers\enqueue.php:65
+Stack trace:
+#0 C:\xampp\htdocs\Projects\wp_MorleyHall-master\wp-includes\class-wp-hook.php(287): Bunch_Enqueue->wp_head('')
+#1 C:\xampp\htdocs\Projects\wp_MorleyHall-master\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Projects\wp_MorleyHall-master\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Projects\wp_MorleyHall-master\wp-includes\general-template.php(2884): do_action('wp_head')
+#4 C:\xampp\htdocs\Projects\wp_MorleyHall-master\wp-content\themes\fortun-child\header.php(14): wp_head()
+#5 C:\xampp\htdocs\Projects\wp_MorleyHall-master\wp-includes\template.php(723): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Projects\wp_MorleyHall-master\wp-includes\template.php(672): load_template('C:\\xampp\\htdocs...', true)
+#7 C:\xampp\htdocs\Projects\wp_MorleyHall in C:\xampp\htdocs\Projects\wp_MorleyHall-master\wp-content\themes\fortun\includes\helpers\enqueue.php on line 65
+
+2020-08-10T11:20:06+00:00 CRITICAL Uncaught Error: Call to undefined function fortun_get_font_settings() in C:\xampp\htdocs\Projects\wp_MorleyHall-master\wp-content\themes\fortun\includes\helpers\enqueue.php:65
+Stack trace:
+#0 C:\xampp\htdocs\Projects\wp_MorleyHall-master\wp-includes\class-wp-hook.php(287): Bunch_Enqueue->wp_head('')
+#1 C:\xampp\htdocs\Projects\wp_MorleyHall-master\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Projects\wp_MorleyHall-master\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Projects\wp_MorleyHall-master\wp-includes\general-template.php(2884): do_action('wp_head')
+#4 C:\xampp\htdocs\Projects\wp_MorleyHall-master\wp-content\themes\fortun-child\header.php(14): wp_head()
+#5 C:\xampp\htdocs\Projects\wp_MorleyHall-master\wp-includes\template.php(723): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Projects\wp_MorleyHall-master\wp-includes\template.php(672): load_template('C:\\xampp\\htdocs...', true)
+#7 C:\xampp\htdocs\Projects\wp_MorleyHall in C:\xampp\htdocs\Projects\wp_MorleyHall-master\wp-content\themes\fortun\includes\helpers\enqueue.php on line 65
+
